@@ -1,0 +1,1 @@
+<footer><p class="text-center mt-5 mb-3 text-muted">© Copyright <strong><span>Desa Guaemaadu</span></strong>. All Rights Reserved</p></footer>
